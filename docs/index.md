@@ -1,6 +1,8 @@
 # JSLint for Sandstorm
 
 This is a fork of the JSLint project to add it to the [Sandstorm App Market](https://apps.sandstorm.io/).
+* [Website](https://puzzleduck.github.io/JSLint/)
+* [Code](https://github.com/PuZZleDucK/JSLint)
 
 The original JSLint project is created by Douglas Crockford and is hosted [here](https://github.com/douglascrockford/JSLint).
 
