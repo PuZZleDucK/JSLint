@@ -1,28 +1,11 @@
-JSLint, The JavaScript Code Quality Tool
+# JSLint for Sandstorm
 
-Douglas Crockford
-douglas@crockford.com
+This is a fork of the JSLint project to add it to the [Sandstorm App Market](https://apps.sandstorm.io/).
 
-2019-03-15
+The original JSLint project is created by Douglas Crockford and is hosted [here](https://github.com/douglascrockford/JSLint).
 
-jslint.js contains the jslint function. It parses and analyzes a source file,
-returning an object with information about the file. It can also take an object
-that sets options.
 
-index.html runs the jslint.js function in a web page. The page also depends
-browser.js and report.js and jslint.css.
-
-jslint.css provides styling for index.html.
-
-browser.js runs the web user interface.
-
-report.js generates the results reports in HTML.
-
-help.html describes JSLint's usage. Please read it.
-
-function.html describes the jslint function and the results it produces.
-
-JSLint can be run anywhere that JavaScript (or Java) can run.
+### JSLint Blurb
 
 The place to express yourself in programming is in the quality of your ideas and
 the efficiency of their execution. The role of style in programming is the same
